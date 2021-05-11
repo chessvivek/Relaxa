@@ -1,6 +1,10 @@
-# HackTech
-California Institute of Technology Programming Contest
+# Relaxa
 
+### About
+A product that detects stress using facial expressions through webcam and helps regulate it.
+
+### HackTech
+This project was submitted originally at HackTech, the annual hackathon of California Institute of Technology
 
 ### Quick Start
 Enter Frontend Folder
@@ -14,5 +18,6 @@ npm start or yarn start
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### Complete details
+
+Check out the original Devpost submission - https://devpost.com/software/relaxa
