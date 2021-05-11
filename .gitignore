@@ -1,0 +1,4 @@
+node_modules/
+frontend/.idea
+frontend/node_modules
+assets/
